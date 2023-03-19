@@ -1,0 +1,2 @@
+apache-airflow-providers-neo4j
+xmltodict
